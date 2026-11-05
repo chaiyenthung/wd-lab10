@@ -5,12 +5,12 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains laboratory exercises focusing on client-side web development techniques, including form creation, CSS Flexbox styling, DOM manipulation, client-side data validation, and interactive animations with jQuery.
 
 ---
 
-### 🔹 Lab 10: Form Enhancement & Validation with jQuery
+###  Lab 10: Form Enhancement & Validation with jQuery
 - **Directory:** `lab10/` (or repository root)
 - **File:** [regform2.html](regform2.html)
 - **Features:**
